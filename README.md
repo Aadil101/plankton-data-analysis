@@ -5,7 +5,7 @@ Math 50 Fall 2017, Homework \#3
 
 -   Is maximum-likelihood estimator *σ̃*<sup>2</sup> of *σ*<sup>2</sup> an unbiased estimator ? Verify your answer. Comment on the change of the value of *E*(*σ̃*<sup>2</sup>) − *σ*<sup>2</sup> as *n* goes to infinity.
 
-![](./README_files/Q1.png)
+![](README_files/Q1.png)
 
 ## Question-2.
 
